@@ -1,0 +1,6 @@
+{
+  "name": "Roshan Solar Pakistan Demo",
+  "description": "Premium conversion-focused solar panel installation, net metering and ROI calculator demo for Pakistan with direct WhatsApp quote integration and XAMPP export instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
